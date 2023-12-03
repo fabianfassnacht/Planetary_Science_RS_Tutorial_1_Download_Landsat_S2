@@ -38,10 +38,10 @@ Having a closer look at those details is very valuable as it will enable you to 
 
 ## Download Sentinel-2 data from ESA's open science hub
 
-Similarly as in the case of Landsat, there is also a comparably comfortable (even though slightly less comfortable than the earthexplorer page - at least in my opinion) webpage to download Sentinel-2, as well as Sentinel-1 and 3 images. You can find the webpage here: https://scihub.copernicus.eu/
+Similarly as in the case of Landsat, there is also a comparably comfortable (even though slightly less comfortable than the earthexplorer page - at least in my opinion) webpage to download Sentinel-2, as well as Sentinel-1 and 3 images. You can find the webpage here: https://dataspace.copernicus.eu/
 
 Once again, there is a very good video available with instructions on how to download Sentinel-2 images from the webpage:
-[Download Sentinel-2 images from the ESA science hub website](https://www.youtube.com/watch?v=AkA0ya3A9lU) 
+[Download Sentinel-2 images from the ESA Copernicus dataspace](https://www.youtube.com/watch?v=g_kr3vNJiTE) 
 
 Please have a look at the video and download a Sentinel-2 image from the approximately same time period and location as you chose for the Landsat image. Be aware that Sentinel-2 images are only available starting from mid-2015. 
 
